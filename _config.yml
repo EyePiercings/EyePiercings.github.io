@@ -8,8 +8,8 @@ url: "http://eyepiercings.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+# url: "http://username.github.io/projectname"
+# baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -23,7 +23,7 @@ description: My website for school and design!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I'm a Computer Science major who likes playing video games."
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
