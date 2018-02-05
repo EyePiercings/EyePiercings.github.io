@@ -8,6 +8,5 @@ This course on Human Computer Interaction that I'm taking, also known as CSCI 37
 
 Here are links to posts made for the course:
 
-[Good Design](_posts/2018-02-05-gooddesign.md)
-
-[Bad Design](/_posts/2018-02-05-baddesign.md)
+- [Good Design](_posts/2018-02-05-gooddesign.md)
+- [Bad Design](/_posts/2018-02-05-baddesign.md)
