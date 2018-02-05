@@ -24,7 +24,8 @@ description: Website for school and design!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: Human computer interaction: "hci"
+  Projects: 
+    - Human computer interaction: "hci"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
