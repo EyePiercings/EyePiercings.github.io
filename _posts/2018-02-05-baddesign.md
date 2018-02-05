@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [bad design, design, bad]
 ---
 
-![Williams Dining](https://github.com/EyePiercings/EyePiercings.github.io/blob/master/img/Screen%20Shot%202018-02-04%20at%206.17.56%20PM.png)
+![Williams Dining](EyePiercings.github.io/img/Screen Shot 2018-02-04 at 6.18.12 PM.png)
 This is a case of bad design. Here, we're looking at Williams College's Dining Services portal. This leads to this very bland webpage that sometimes even randomly links to one of the dining halls on campus. This page displays the meals planned for Driscoll dining hall. You'll see that the links to the webpage corresponding to each meal are awkwards smushed together making it difficult to distinguish each meal visually. 
 
 ![Driscoll Breakfast](https://github.com/EyePiercings/EyePiercings.github.io/blob/master/img/Screen%20Shot%202018-02-04%20at%206.18.12%20PM.png)
