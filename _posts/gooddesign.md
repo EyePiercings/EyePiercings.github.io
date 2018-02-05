@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design
-subtitle: This is an analysis of good desgign
+subtitle: This is an analysis of good design
 gh-repo: EyePiercings/EyePiercings.github.io
 gh-badge: [star, fork, follow]
 tags: [good design, design, good]
