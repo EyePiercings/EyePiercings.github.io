@@ -6,8 +6,8 @@ subtitle: Who is Desmond, really?
 
 My name is Desmond Shawareb. I have the following qualities:
 
-- I love Ramen
 - I'm extremely loyal to my family
+- I love Ramen
 - I dance
 - I program
 - I love problem solving
