@@ -1,9 +1,3 @@
----
-layout: page
-title: Good Design
-subtitle: An example of good design.
----
-
 ![Williams Homepage](https://github.com/EyePiercings/EyePiercings.github.io/blob/master/img/Screen%20Shot%202018-02-04%20at%205.45.41%20PM.png)
 The Williams College homepage is an example of good design choice. As an institution of higher education, the creator of the Williams College webpage has aggregated all information relevent to its operation. The creator is careful in creating a clear interface where visitors can easily navigate and find what they're looking for. Naturally, Admission and Aid, Varsity Sports, and Arts at Williams are subjects thought to be statistically relevent information for the demographics of maturing high school students and aging parents. Campaign for Williams is left there for alumni and donors wishing to give back to the school and support its commitment to educating the new generation.
 
