@@ -23,7 +23,7 @@ description: Website for school and design!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "I'm a Computer Science major who likes playing video games."
+  About Me: "EyePiercings.github.io/aboutme.md"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
