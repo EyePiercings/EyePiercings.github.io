@@ -1,0 +1,21 @@
+---
+layout: post
+title: Project Proposal
+subtitle: This is my project proposal
+gh-repo: EyePiercings/EyePiercings.github.io
+gh-badge: [star, fork, follow]
+tags: [project proposal, project, proposal]
+---
+
+##Problem and Motiviation
+Fasting has certainly arrived into the mainstream in these recent years. Originally a practice found in most religions, fasting has 
+been reported to have actual positive effects on the human body. With noted [benefits](https://draxe.com/benefits-fasting/) like weight 
+loss, HGH secretion, and more, intermittent fasting seems like a no brainer. However, there is sometimes no clear way to document this 
+process and to relate it to your health. 
+
+##Analysis of Problem
+People who are doing intermittent fasting may not be documenting their health due to the rigor that one might need to have while fasting. 
+As someone who has fasted in the past for Ramadan, I remember not having the strength to do the activities that I wanted. I may have 
+toughed it out but I certainly did not know that I wasn't eating all of the right vitamins at the end of the day because I'd have one meal
+(dinner) which limits my food intake. With a tool like this, a user would be able to avoid dizzy spells by knowing the patterns of energy 
+they have during a fast. 
