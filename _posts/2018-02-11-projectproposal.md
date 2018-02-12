@@ -23,7 +23,7 @@ toughed it out but I certainly did not know that I wasn't eating all of the righ
 they have during a fast. Therefore, a tool that records energy levels, food intake, and physical activity would be able to better document
 this process using said information in a visually comprehensive manner.
 
-### Proposal
+## Proposal
 An app that will allow you to track this data and display it with visual and audio information to the user. This app will have several modes corresponding to both scientific and religious methods. These will then come with preset phases of information displayed visually to 
 the user on their screen with options, tips, reccomendations, and real time health tracking will completely change the way we think of our
 relationship with our bodies.
