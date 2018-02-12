@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Project Proposal
-subtitle: This is my project proposal
+title: Automated Fasting
 gh-repo: EyePiercings/EyePiercings.github.io
 gh-badge: [star, fork, follow]
 tags: [project proposal, project, proposal]
