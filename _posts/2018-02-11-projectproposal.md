@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automated Fasting
+subtitle: Project Proposal
 gh-repo: EyePiercings/EyePiercings.github.io
 gh-badge: [star, fork, follow]
 tags: [project proposal, project, proposal]
