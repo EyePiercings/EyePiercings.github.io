@@ -77,7 +77,7 @@ For our project, we wanted a seamless, minimalist interface that stimulated a us
 
 ![Tree Panel](../img/projImg/mockups/Data2.png)
 
-Letting go makes room for more. *Always* go for more.
+Letting go makes room for more growth. *Always* go for more.
 
 
 ## Conclusion
