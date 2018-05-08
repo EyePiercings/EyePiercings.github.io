@@ -25,11 +25,11 @@ Here are five main points that have defined my design process.
 
 ## Design is in the Eye of the Beholder
 
-When we first met together and tried to come up with a comprehensive design, we did not know how much was missing from the overall product at all. In our minds, we were done. We didn’t consider how much we had left to improve. In fact, we thought that it was intuitive and that our users would naturally understand what our design was attempting to be. However, our contextual inquiries proved that this was incorrect.
+When we first met together and tried to come up with a comprehensive design, we did not know how much was missing from the overall product at all. In our minds, we were done. We didn’t consider how much we had left to improve. In fact, we thought that it was intuitive and that our users would naturally understand what our design was attempting to be. However, our usability tests proved that this was incorrect.
 
 ![Big and Little Tree](../img/projImg/usability/u9.jpg)
 
-Some people saw what we were trying to do during usability testing of course. Put compost in the compost bin and you’ll see a tree grow big and strong signaling positive feedback. Put trash into the trash bin and it would shrink, indicating negative feedback. However, one person had trouble understanding what went wrong when putting trash in the trash bin. Person X thought that by correctly categorizing her waste that she was making a difference. That’s when I discovered that different people had different interpretations of saving the environment at a given time. From that point, people have different biases and interpretations when it comes not only to interacting with a design but also making a design. While our focus was on the user, the spotlight was angled back at us, the designers. Knowing that there were different interpretations of what our design did, it prompted us to revise our version of the design for clarity. This bring me to my next point.
+Some people saw what we were trying to do during usability testing of course. Put compost in the compost bin and you’ll see a tree grow big and strong signaling positive feedback. Put trash into the trash bin and it would shrink, indicating negative feedback. However, one person had trouble understanding what went wrong when putting trash in the trash bin. Person X thought that by correctly categorizing her waste that she was making a difference. That’s when we discovered that we overlooked that different people had different interpretations of saving the environment at a given time. Building off of that, people have different biases and interpretations when it comes not only to interacting with a design but also making a design. While our focus was on the user, the spotlight was angled back at us, the designers. Knowing that there were different interpretations of what our design did, it prompted us to revise our version of the design for clarity. This bring me to my next point.
 
 ## Clarity in Accessibility
 
@@ -37,11 +37,11 @@ Some people saw what we were trying to do during usability testing of course. Pu
 
 Everyone has different perceptions of the world and thus a different relationship to the world in terms of their interactions. Accessibility digs into how different people interact in their relationship to the world. Designing for accessibility is not only a morally just act but also paves the way for clarifying one’s own design. 
 
-When everyone first presented their designs in class, one could immediately tell that these designs weren’t made with people with disabilities in mind. This again, is a natural bias that we learned to strip from our design process. Some designs heavily relied on the use of pictures as ours did, to convey information to their users. However, users who are visually impaired may find a design of that particular kind inaccessible without the presence of alt text. For our design in particular, we rely on the picture of a tree to convey positive and negative feedback. Luckily from the outset, we always had a paired audio cue in mind with each that would further reinforce these notions but what one should focus on is that by having a feature that makes a design more accessible, it ameliorates the design in clarity.
+When everyone first presented their designs in class, it immediately became apparent that our designs weren’t made with people possessing disabilities in mind. This again, is a natural bias that we learned to strip from our design process. Some designs heavily relied on the use of pictures as ours did, to convey information to their users. However, users who are visually impaired may find a design of that particular kind inaccessible without the presence of alt text. For our design in particular, we rely on the picture of a tree to convey positive and negative feedback. Luckily from the outset, we always had a paired audio cue in mind with each that would further reinforce these notions but what one should focus on is that by having a feature that makes a design more accessible, it ameliorates the design in clarity.
 
 ## Ethically Designing
 
-Certainly, when one thinks of Trendy Trash, one doesn’t think that ethics could come into play. Honestly, I can’t think of a way our design could be ethically misguided. However, designers should be wary about the way their designs may interact with the realm of ethics. In the case of Facebook for example, the site actively aggregates information about its users and adjusts their ad content accordingly in order to generate revenue for those sites. A site that has control of users ad content and news feed posts has a lot of responsibility in how the specific content can impact users. This became an issue when a [psych study wanted to use Facebook’s ability to control news feeds to see how users react to positive and negative content](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html). 
+Certainly, when one thinks of Trendy Trash, one doesn’t think that ethics could come into play. Honestly, I can’t think of a way our design could be ethically misguided. However, designers should be wary about the way their designs may potentially interact with the realm of ethics. In the case of Facebook for example, the site actively aggregates information about its users and adjusts their ad content accordingly in order to generate revenue for those sites. A site that has control of users ad content and news feed posts has a lot of responsibility in how the specific content can impact users. This became an issue when a [psych study wanted to use Facebook’s ability to control news feeds to see how users react to positive and negative content](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html). 
 
 > “The researchers found that moods were contagious. The people who saw more positive posts responded by writing more positive posts. Similarly, seeing more negative content prompted the viewers to be more negative in their own posts.” 
 
@@ -72,6 +72,16 @@ Sometimes, ideas will have to be dropped. We can’t win every battle in the war
 For our project, we wanted a seamless, minimalist interface that stimulated a user’s curiosity and invited them to explore the design. However, we learned to let go of such a bare bones skeleton and implemented labels and language to the interface so that people could have a better understanding of what they were looking at. Our usability tests did better because of that and so did our design. 
 
 Letting go makes room for more. *Always* go for more.
+
+
+## Conclusion
+
+I had a rough idea of what designing a product was at first. I knew that a lot of brainstorming was involved and that statistical evidence had to be gathered on whether customers would actually purchase the product or not. That was it. It was a shallow interpretation without a lot of thought put into it but I suspect that a lot of people who've never taken a design class think this way. How naive.
+
+On the contrary, design is rigorous and systematic in a way. The creative aspects of storyboarding and generating prototypes are merely steps that follow the culmination and organization of user feedback into constructive advice on how to move forward. It's normally much longer of a process than what we experienced this semseter as contextual inquiries and usability testing, for example, would have a much larger pool of participants to gather data from. We are formulating and refining an idea at its core and making sure that it works for our intended audience.
+
+Ultimately, users are the center of design products. Desiging is taking a personally thought out good idea and refining it until who you want to know of it thinks it's amazing.
+
 
 [^1] : https://normandoors.tumblr.com/
 [^2] : https://digitalsynopsis.com/design/web-designing-for-accessibility/
