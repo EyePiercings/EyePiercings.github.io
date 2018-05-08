@@ -63,13 +63,15 @@ A successful countermeasure, affinity diagramming, allowed us to parse through f
 
 ## Let Go of Your Ideas
 
-Design is going to kick your butt and your ego at times. Maybe you thought that your idea was the best out of your team and we should implement it right away. Maybe you thought your idea should take precedent over the what the users want because you may know better than the users about what they want.
+Design is going to kick your butt and your ego at times. Maybe you thought that your idea was the best out of your team and it should be implemented right away. Maybe you thought your idea should take precedent over what the users want because you may know better than the users about what they want.
 
-Maybe you’re wrong.
+Maybe you’re wrong. No, you're probably wrong.
 
 Sometimes, ideas will have to be dropped. We can’t win every battle in the war to form a design. A great designer knows when to retreat, assess the situation, and retaliate having learned from their defeat. Iteration is part of the design process and in order for a design to grow, it must shed its baggage. This is especially true of web designs that employ to much extraneous information on one page. 
 
-For our project, we wanted a seamless, minimalist interface that stimulated a user’s curiosity and invited them to explore the design. However, we learned to let go of such a bare bones skeleton and implemented labels and language to the interface so that people could have a better understanding of what they were looking at. Our usability tests did better because of that and so did our design. 
+For our project, we wanted a seamless, minimalist interface that stimulated a user’s curiosity and invited them to explore the design. However, we learned to let go of such a bare bones skeleton and implemented labels and language to the interface so that people could have a better understanding of what they were looking at. Our mockups were better because of that and so was our design. 
+
+![Tree Panel](../img/projImg/mockups/Data2.png)
 
 Letting go makes room for more. *Always* go for more.
 
