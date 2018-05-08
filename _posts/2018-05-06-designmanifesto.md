@@ -84,4 +84,5 @@ Ultimately, users are the center of design products. Desiging is taking a person
 
 
 <a name="myfootnote1">1</a> : https://normandoors.tumblr.com/
+
 <a name="myfootnote2">2</a> : https://digitalsynopsis.com/design/web-designing-for-accessibility/
