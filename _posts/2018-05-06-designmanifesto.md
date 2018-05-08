@@ -14,7 +14,7 @@ tags: [design, manifesto, design manifesto]
 Taking the course Human Computer Interaction opened my eyes and molded them to be critical of the structure of many products I took for granted. Indeed, design is inherently everywhere as choices to make [door ways](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=123981970)
 to choices on how to make hand held applications impact the relationship between the user and their environment. 
 
-![Norman Doors](https://78.media.tumblr.com/c14fea77b9df87a467c2ce4acb02fa4f/tumblr_o45jhxR3iN1voxm0xo1_400.png)
+![Norman Doors](https://78.media.tumblr.com/c14fea77b9df87a467c2ce4acb02fa4f/tumblr_o45jhxR3iN1voxm0xo1_400.png)[^1]
 
 Throughout the semeseter, I spent time with two other students developing a design that became the hypothetical product Trendy Trash (link). During this process, we learned a lot along the way about the cornerstones of design and the many formulas needed to craft a working and effective product. 
 
@@ -27,13 +27,13 @@ Here are five main points that have defined my design process.
 
 When we first met together and tried to come up with a comprehensive design, we did not know how much was missing from the overall product at all. In our minds, we were done. We didn’t consider how much we had left to improve. In fact, we thought that it was intuitive and that our users would naturally understand what our design was attempting to be. However, our contextual inquiries proved that this was incorrect.
 
-![Big Tree](../img/projImg/usability/u1.jpg)
-
-![Little Tree](../img/projImg/usability/p4.jpg)
+![Big and Little Tree](../img/projImg/usability/u9.jpg)
 
 Some people saw what we were trying to do during usability testing of course. Put compost in the compost bin and you’ll see a tree grow big and strong signaling positive feedback. Put trash into the trash bin and it would shrink, indicating negative feedback. However, one person had trouble understanding what went wrong when putting trash in the trash bin. Person X thought that by correctly categorizing her waste that she was making a difference. That’s when I discovered that different people had different interpretations of saving the environment at a given time. From that point, people have different biases and interpretations when it comes not only to interacting with a design but also making a design. While our focus was on the user, the spotlight was angled back at us, the designers. Knowing that there were different interpretations of what our design did, it prompted us to revise our version of the design for clarity. This bring me to my next point.
 
 ## Clarity in Accessibility
+
+![Web Designing for Accessibility](https://digitalsynopsis.com/wp-content/uploads/2016/09/web-designing-for-accessibility.jpg)[^2]
 
 Everyone has different perceptions of the world and thus a different relationship to the world in terms of their interactions. Accessibility digs into how different people interact in their relationship to the world. Designing for accessibility is not only a morally just act but also paves the way for clarifying one’s own design. 
 
@@ -71,4 +71,7 @@ Sometimes, ideas will have to be dropped. We can’t win every battle in the war
 
 For our project, we wanted a seamless, minimalist interface that stimulated a user’s curiosity and invited them to explore the design. However, we learned to let go of such a bare bones skeleton and implemented labels and language to the interface so that people could have a better understanding of what they were looking at. Our usability tests did better because of that and so did our design. 
 
-Letting go makes room for more. Always go for more.
+Letting go makes room for more. *Always* go for more.
+
+[^1] : https://normandoors.tumblr.com/
+[^2] : https://digitalsynopsis.com/design/web-designing-for-accessibility/
