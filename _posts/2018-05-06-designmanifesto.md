@@ -12,9 +12,11 @@ tags: [design, manifesto, design manifesto]
 ## Introduction
 
 Taking the course Human Computer Interaction opened my eyes and molded them to be critical of the structure of many products I took for granted. Indeed, design is inherently everywhere as choices to make [door ways](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=123981970)
-to choices on how to make hand held applications impact the relationship between the user and their environment. Throughout the semeseter, I spent time with two other students developing a design that became the hypothetical product Trendy Trash (link). During this process, we learned a lot along the way about the cornerstones of design and the many formulas needed to craft a working and effective product. 
+to choices on how to make hand held applications impact the relationship between the user and their environment. 
 
 ![Norman Doors](https://78.media.tumblr.com/c14fea77b9df87a467c2ce4acb02fa4f/tumblr_o45jhxR3iN1voxm0xo1_400.png)
+
+Throughout the semeseter, I spent time with two other students developing a design that became the hypothetical product Trendy Trash (link). During this process, we learned a lot along the way about the cornerstones of design and the many formulas needed to craft a working and effective product. 
 
 To me, design is analogous to art. Art requires one to be cognizant of one’s audience, oneself, and what one wants to accomplish if anything at all. However, where art may not need to explain itself to gazes that do not comprehend its meaning, design does. The art form of designing lies in accessibility, ethical grounding, and functionality.
 
@@ -24,8 +26,11 @@ Here are five main points that have defined my design process.
 ## Design is in the Eye of the Beholder
 
 When we first met together and tried to come up with a comprehensive design, we did not know how much was missing from the overall product at all. In our minds, we were done. We didn’t consider how much we had left to improve. In fact, we thought that it was intuitive and that our users would naturally understand what our design was attempting to be. However, our contextual inquiries proved that this was incorrect.
+
 ![Big Tree](../img/projImg/usability/u1.jpg)
+
 ![Little Tree](../img/projImg/usability/p4.jpg)
+
 Some people saw what we were trying to do during usability testing of course. Put compost in the compost bin and you’ll see a tree grow big and strong signaling positive feedback. Put trash into the trash bin and it would shrink, indicating negative feedback. However, one person had trouble understanding what went wrong when putting trash in the trash bin. Person X thought that by correctly categorizing her waste that she was making a difference. That’s when I discovered that different people had different interpretations of saving the environment at a given time. From that point, people have different biases and interpretations when it comes not only to interacting with a design but also making a design. While our focus was on the user, the spotlight was angled back at us, the designers. Knowing that there were different interpretations of what our design did, it prompted us to revise our version of the design for clarity. This bring me to my next point.
 
 ## Clarity in Accessibility
