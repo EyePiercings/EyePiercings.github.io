@@ -25,9 +25,8 @@ description: Williams College/Computer Science
 navbar-links:
   Home: "http://www.doshaw.com"
   About Me: "aboutme"
-  Projects: 
-    - Human Computer Interaction: "hci"
-    - Design Project: "http://www.grchen.com/thisprojectistrash"
+  Design Project: "http://www.grchen.com/thisprojectistrash"
+  HCI Course: "hci"
   HCI Assignments: 
     - Design Manifesto: "2018-05-06-designmanifesto"
     - Project Proposal: "2018-02-11-projectproposal"
