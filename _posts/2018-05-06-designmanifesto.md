@@ -14,7 +14,7 @@ tags: [design, manifesto, design manifesto]
 Taking the course Human Computer Interaction opened my eyes and molded them to be critical of the structure of many products I took for granted. Indeed, design is inherently everywhere as choices to make [door ways](https://glow.williams.edu/courses/2221560/files/folder/readings?preview=123981970)
 to choices on how to make hand held applications impact the relationship between the user and their environment. 
 
-![Norman Doors](https://78.media.tumblr.com/c14fea77b9df87a467c2ce4acb02fa4f/tumblr_o45jhxR3iN1voxm0xo1_400.png)[^1]
+![Norman Doors](https://78.media.tumblr.com/c14fea77b9df87a467c2ce4acb02fa4f/tumblr_o45jhxR3iN1voxm0xo1_400.png)<sup>[1](#myfootnote1)</sup>
 
 Throughout the semeseter, I spent time with two other students developing a design that became the hypothetical product [Trendy Trash](www.grchen.com/thisprojectistrash). During this process, we learned a lot along the way about the cornerstones of design and the many formulas needed to craft a working and effective product. 
 
@@ -33,7 +33,7 @@ Some people saw what we were trying to do during usability testing of course. Pu
 
 ## Clarity in Accessibility
 
-![Web Designing for Accessibility](https://digitalsynopsis.com/wp-content/uploads/2016/09/web-designing-for-accessibility.jpg)[^2]
+![Web Designing for Accessibility](https://digitalsynopsis.com/wp-content/uploads/2016/09/web-designing-for-accessibility.jpg)<sup>[2](#myfootnote2)</sup>
 
 Everyone has different perceptions of the world and thus a different relationship to the world in terms of their interactions. Accessibility digs into how different people interact in their relationship to the world. Designing for accessibility is not only a morally just act but also paves the way for clarifying one’s own design. 
 
@@ -83,5 +83,5 @@ On the contrary, design is rigorous and systematic in a way. The creative aspect
 Ultimately, users are the center of design products. Desiging is taking a personally thought out good idea and refining it until who you want to know of it thinks it's amazing.
 
 
-[^1] : https://normandoors.tumblr.com/
-[^2] : https://digitalsynopsis.com/design/web-designing-for-accessibility/
+<a name="myfootnote1">1</a> : https://normandoors.tumblr.com/
+<a name="myfootnote2">2</a> : https://digitalsynopsis.com/design/web-designing-for-accessibility/
