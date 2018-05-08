@@ -16,7 +16,7 @@ to choices on how to make hand held applications impact the relationship between
 
 ![Norman Doors](https://78.media.tumblr.com/c14fea77b9df87a467c2ce4acb02fa4f/tumblr_o45jhxR3iN1voxm0xo1_400.png)[^1]
 
-Throughout the semeseter, I spent time with two other students developing a design that became the hypothetical product Trendy Trash (link). During this process, we learned a lot along the way about the cornerstones of design and the many formulas needed to craft a working and effective product. 
+Throughout the semeseter, I spent time with two other students developing a design that became the hypothetical product [Trendy Trash](www.grchen.com/thisprojectistrash). During this process, we learned a lot along the way about the cornerstones of design and the many formulas needed to craft a working and effective product. 
 
 To me, design is analogous to art. Art requires one to be cognizant of one’s audience, oneself, and what one wants to accomplish if anything at all. However, where art may not need to explain itself to gazes that do not comprehend its meaning, design does. The art form of designing lies in accessibility, ethical grounding, and functionality.
 
