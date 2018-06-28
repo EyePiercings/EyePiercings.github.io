@@ -24,7 +24,7 @@ description: Williams College/Computer Science
 # List of links in the navigation bar
 navbar-links:
   Home: "http://www.doshaw.com"
-  About Me: "aboutme"
+  About Me/Resume: "aboutme"
   Design Project: "http://www.grchen.com/thisprojectistrash"
   HCI Course: "hci"
   HCI Assignments: 
