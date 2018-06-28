@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About me
+title: About Me/Resume
 subtitle: Who is Desmond, really?
 ---
 
-My name is Desmond Shawareb. I have the following qualities:
+My name is Desmond Shawareb. I have the following hobbies and qualities:
 
-- I dance
-- I program
+- I dance Hip-Hop and Afro-Latino Dance
+- I choreograph dance pieces for both genres
+- I program 
 - I love problem solving
+
 
 ### Education
 
-The Lawrenceville School : 2014
+The Lawrenceville School : 2014<br/>
 Williams College : 2018
 
 
